@@ -15,6 +15,9 @@ public class Atm {
 
         System.out.println("bir kısım kodlar");
         //srb2
+
+        System.out.println();
+        //srb3
     }
 
 
