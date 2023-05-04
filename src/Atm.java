@@ -10,8 +10,11 @@ public class Atm {
         System.out.println("Git öğrenmek çok kolay");
         //version4
 
-        System.out.println("serbulent bracnh'i kodlarını yazdı");
+        System.out.println("serbulent branch'i kodlarını yazdı");
         //version srb1
+
+        System.out.println("bir kısım kodlar");
+        //srb2
     }
 
 
